@@ -1,3 +1,13 @@
+1.2.6 / 2022-09-09
+==================
+
+  * Fixed support for Node >= 18.8.0 (@corentingurtner - see nodejs/node#44554)
+
+1.2.5 / 2019-12-24
+==================
+
+  * Fixed support for Node >= 12 (@suldashi)
+
 1.2.4 / 2016-06-27
 ==================
 
