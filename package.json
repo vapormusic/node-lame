@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/node-lame.git"
+    "url": "https://github.com/FlatIO/node-lame.git"
   },
   "main": "./index.js",
   "types": "./index.d.ts",
