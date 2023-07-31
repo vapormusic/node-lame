@@ -1,5 +1,5 @@
 {
-  "name": "@flat/lame",
+  "name": "@euguuu/lame",
   "description": "NodeJS native bindings to libmp3lame & libmpg123.",
   "keywords": [
     "lame",
@@ -20,6 +20,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
+    "@flat/lame": "github:euguuu/node-lame#3aa114422c5210c2214d56e8c09638a2a00c6cc9",
     "bindings": "^1.5.0",
     "debug": "^4.3.4",
     "nan": "^2.16.0",
