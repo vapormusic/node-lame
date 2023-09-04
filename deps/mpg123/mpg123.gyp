@@ -39,7 +39,8 @@
       ['OS=="mac"', {
         'conditions': [
           ['target_arch=="ia32"', { 'xcode_settings': { 'ARCHS': [ 'i386' ] } }],
-          ['target_arch=="x64"', { 'xcode_settings': { 'ARCHS': [ 'x86_64' ] } }]
+          ['target_arch=="x64"', { 'xcode_settings': { 'ARCHS': [ 'x86_64' ] } }],
+          ['target_arch=="arm64"', { 'xcode_settings': { 'ARCHS': [ 'arm64' ] } }]
         ],
       }],
     ]
