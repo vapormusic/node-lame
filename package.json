@@ -23,7 +23,7 @@
     "@flat/lame": "github:euguuu/node-lame#3aa114422c5210c2214d56e8c09638a2a00c6cc9",
     "bindings": "^1.5.0",
     "debug": "^4.3.4",
-    "nan": "^2.16.0",
+    "nan": "^2.23.0",
     "readable-stream": "^1.0.34"
   },
   "devDependencies": {
